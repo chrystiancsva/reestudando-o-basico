@@ -1,0 +1,10 @@
+p:first-child{
+    background-color: aqua;
+    padding: 20px
+}
+
+p:not(padrao){
+    background-color: blue;
+    padding: 10px;
+}
+
