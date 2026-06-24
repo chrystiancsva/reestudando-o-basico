@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+}
+.row-reverse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.collum{
+    display: flex;
+    flex-direction: column;
+}
+.collum-reverse{
+    display: flex;
+    flex-direction: column-reverse;
+}
